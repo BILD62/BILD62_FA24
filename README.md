@@ -1,2 +1,3 @@
 # BILD62_FA24
-github repository for BILD62, Fall 2024 (Instructor: Aljadeff)
+The course materials are evolving as the course progresses. 
+For questions, contact Johnatan Aljadeff (aljadeff[at]ucsd.edu)
